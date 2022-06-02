@@ -1,0 +1,20 @@
+2022-06-02 18:23:34.311 Info Media Info-HDRConvert:: HDR Conversion TASK IS STARTING
+2022-06-02 18:23:34.311 Info Media Info-HDRConvert:: HDR Reprocess Items is ON - Resetting Lists...
+2022-06-02 18:23:34.311 Info Media Info-HDRConvert:: Resetting HDR Lists for Movies & TV Episodes...
+2022-06-02 18:23:34.311 Info Media Info-HDRConvert:: Lists for HDR Movies & TV Episodes successfully Reset
+2022-06-02 18:23:34.311 Info Media Info-HDRConvert:: Getting All Movies in Library
+2022-06-02 18:23:34.513 Info Media Info-HDRConvert:: Filtering HDR Movies
+2022-06-02 18:23:34.622 Info Media Info-HDRConvert:: Total Movies in Library = 2134 
+2022-06-02 18:23:34.622 Info Media Info-HDRConvert:: Total Movies with HDR to Process = 67 
+2022-06-02 18:23:34.622 Info Media Info-HDRConvert:: Getting All Episodes in Library
+2022-06-02 18:23:35.711 Info Media Info-HDRConvert:: Filtering HDR Episodes
+2022-06-02 18:23:37.122 Info Media Info-HDRConvert:: Total Episodes in Library = 31164 
+2022-06-02 18:23:37.122 Info Media Info-HDRConvert:: Total Episodes with HDR to Process = 131 
+2022-06-02 18:23:37.122 Info Media Info-HDRConvert:: Total HDR Items to process = 198
+2022-06-02 18:27:50.904 Info Media Info-HDRConvert:: Movie to extract HDR = Léon: The Professional 
+2022-06-02 18:32:37.530 Debug Media Info-HDRConvert:: Image Extraction was Successful for Léon: The Professional and took 286 seconds
+2022-06-02 18:32:37.530 Debug Media Info-HDRConvert:: Creating Bif File
+2022-06-02 18:32:37.530 Debug Media Info-HDRConvert:: BifTool Path =C:\bif\biftool.exe
+2022-06-02 18:32:37.625 Debug Media Info-HDRConvert:: Bif File Successfully Created for Léon: The Professional and took 95milliseconds
+2022-06-02 18:32:37.627 Debug Media Info-HDRConvert:: File exists..... Replacing BIF File in \\media\Films 4K\Léon The Professional (1994) [tmdbid=101]
+2022-06-02 18:32:37.684 Info Media Info-HDRConvert:: HDR-SDR Conversion completed for Léon: The Professional 
